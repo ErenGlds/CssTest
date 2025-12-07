@@ -1,57 +1,51 @@
-.container {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 10px 40px; 
-  position: relative;
-}
+#A{
+    width: 100px;
+    height: 150px;
+    border: 1px solid;
+    font-size: 40px;
+    float: left;
+    margin-left: 10px;
 
-.container > div {
-  width: 100px;
-  height: 150px;
-  background-color: #ddd;
-  padding: 10px;
-  box-sizing: border-box;
-  display: flex;
-  align-items: flex-start;
-  justify-content: center;
-  position: relative;
-  font-size: 24px;
 }
-
-.a {
-margin-left: 10px;
-  background: yellow;
-  cursor: pointer;
+#B{
+    width: 100px;
+    height: 150px;
+    border: 1px solid;
+    font-size: 40px;
+    float: left;
+    margin-left: 10px;
 }
-
-.b {
-  background-color: #ddd;
-  
+#C{
+    width: 100px;
+    height: 150px;
+    border: 1px solid;
+    font-size: 40px;
+    float: left;
+    margin-left: 10px;
 }
-
-.c {
-  background-color: #eee;
+#D{
+    width: 100px;
+    height: 150px;
+    border: 1px solid;
+    font-size: 40px;
+    float: left;
+    margin-left: 10px;
 }
-
-.d {
-  background-color: #eee;
-  position: relative;
-  left: -30px; 
-  margin-right: 10px;
-  background: #8caaf3;
-  color: white;
+#E{
+    width: 100px;
+    height: 150px;
+    border: 1px solid;
+    font-size: 40px;
+    float: left;
+    margin-left: 10px;
 }
-
-.e {
-  background-color: #eee;
-  margin-left: 10px;
-}
-
-.f {
-  background-color: #ddd;
-  position: absolute;
-  right: 0;
-  bottom: 0;
-  padding: 10px;
-  box-sizing: border-box;
+#F{
+    width: 100px;
+    height: 150px;
+    border: 1px solid;
+    font-size: 40px;
+    float: right;
+    margin-left: 10px;
+    background-color: black;
+    color: white;
 }

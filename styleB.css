@@ -1,51 +1,76 @@
-#A{
-    width: 100px;
-    height: 150px;
-    border: 1px solid;
-    font-size: 40px;
-    float: left;
-    margin-left: 10px;
-
+#A{width: 100px;
+  height: 150px;
+  background-color: #eeeff2;
+  border-left: 10px dotted #D0D0FF;
+  float: left;
+  margin: 10px;
+  box-sizing: border-box;
+  padding-left: 15px;
+  padding-top: 20px;
+  font-family: sans-serif;
+  font-size: 2rem;
 }
 #B{
     width: 100px;
-    height: 150px;
-    border: 1px solid;
-    font-size: 40px;
-    float: left;
-    margin-left: 10px;
+  height: 150px;
+  background-color: #eeeff2;
+  border-left: 10px dotted #D0D0FF;
+  float: left;
+  margin: 10px;
+  box-sizing: border-box;
+  padding-left: 15px;
+  padding-top: 20px;
+  font-family: sans-serif;
+  font-size: 2rem;
 }
-#C{
+#C{ 
     width: 100px;
-    height: 150px;
-    border: 1px solid;
-    font-size: 40px;
-    float: left;
-    margin-left: 10px;
+  height: 150px;
+  background-color: #eeeff2;
+  border-left: 10px dotted #D0D0FF;
+  float: left;
+  margin: 10px;
+  box-sizing: border-box;
+  padding-left: 15px;
+  padding-top: 20px;
+  font-family: sans-serif;
+  font-size: 2rem;
 }
 #D{
     width: 100px;
-    height: 150px;
-    border: 1px solid;
-    font-size: 40px;
-    float: left;
-    margin-left: 10px;
+  height: 150px;
+  background-color: #eeeff2;
+  border-left: 10px dotted #D0D0FF;
+  float: left;
+  margin: 10px;
+  box-sizing: border-box;
+  padding-left: 15px;
+  padding-top: 20px;
+  font-family: sans-serif;
+  font-size: 2rem;
 }
 #E{
     width: 100px;
-    height: 150px;
-    border: 1px solid;
-    font-size: 40px;
-    float: left;
-    margin-left: 10px;
+  height: 150px;
+  background-color: #eeeff2;
+  border-left: 10px dotted #D0D0FF;
+  float: left;
+  margin: 10px;
+  box-sizing: border-box;
+  padding-left: 15px;
+  padding-top: 20px;
+  font-family: sans-serif;
+  font-size: 2rem;
 }
-#F{
-    width: 100px;
-    height: 150px;
-    border: 1px solid;
-    font-size: 40px;
-    float: right;
-    margin-left: 10px;
-    background-color: black;
-    color: white;
+#F{width: 100px;
+  height: 150px;
+  background-color: #eeeff2;
+  border-left: 10px dotted #D0D0FF;
+  float: right;
+  margin: 10px;
+  box-sizing: border-box;
+  padding-left: 15px;
+  padding-top: 20px;
+  font-family: sans-serif;
+  font-size: 2rem;
 }

@@ -62,15 +62,18 @@
   font-family: sans-serif;
   font-size: 2rem;
 }
-#F{width: 100px;
+#F{
+  position: fixed;
+    width: 100px;
   height: 150px;
   background-color: #eeeff2;
   border-left: 10px dotted #D0D0FF;
-  float: right;
   margin: 10px;
   box-sizing: border-box;
   padding-left: 15px;
   padding-top: 20px;
   font-family: sans-serif;
   font-size: 2rem;
+  bottom: 0;
+  right: 0;
 }

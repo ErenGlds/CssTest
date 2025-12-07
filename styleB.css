@@ -6,6 +6,8 @@
 }
 
 .container > div {
+  width: 100px;
+  height: 150px;
   background-color: #ddd;
   padding: 10px;
   box-sizing: border-box;
@@ -20,29 +22,18 @@
 margin-left: 10px;
   background: yellow;
   cursor: pointer;
-  
-    width: 100px;
-    height: 150px;
 }
 
 .b {
   background-color: #ddd;
   
-    width: 100px;
-    height: 150px;
 }
 
 .c {
-    
-    width: 100px;
-    height: 150px;
   background-color: #eee;
 }
 
 .d {
-    
-    width: 100px;
-    height: 150px;
   background-color: #eee;
   position: relative;
   left: -30px; 
@@ -52,17 +43,11 @@ margin-left: 10px;
 }
 
 .e {
-    
-    width: 100px;
-    height: 150px;
   background-color: #eee;
   margin-left: 10px;
 }
 
 .f {
-    
-    width: 100px;
-    height: 150px;
   background-color: #ddd;
   position: absolute;
   right: 0;
